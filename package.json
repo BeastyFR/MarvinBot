@@ -1,0 +1,28 @@
+{
+	"name": "marvinbot",
+	"version": "0.8.0",
+	"description": "Twitch - Discord bot to get both plateform connected and interactive",
+	"main": "dist/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/BeastyFR/MarvinBot.git"
+	},
+	"keywords": [
+		"twitch",
+		"discord",
+		"bot"
+	],
+	"author": "Camille Combier",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/BeastyFR/MarvinBot/issues"
+	},
+	"homepage": "https://github.com/BeastyFR/MarvinBot#readme",
+	"devDependencies": {
+		"@types/node": "^18.7.6",
+		"tmi.js": "^1.8.5"
+	}
+}
