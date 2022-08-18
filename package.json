@@ -4,6 +4,8 @@
 	"description": "Twitch - Discord bot to get both plateform connected and interactive",
 	"main": "dist/index.js",
 	"scripts": {
+		"dev": "node dist/index.js",
+		"start": "npm run dev",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {

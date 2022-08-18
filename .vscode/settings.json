@@ -1,0 +1,10 @@
+{
+	"search.exclude": {
+		"**/dist": true
+	},
+	"files.exclude": {
+		"**/dist": true,
+		"**/dist/authSettings.json": true,
+		"**/node_modules": true
+	}
+}
