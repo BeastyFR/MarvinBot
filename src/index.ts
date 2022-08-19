@@ -1,3 +1,3 @@
-import { Bot } from "./bot";
+import { Bot } from "./Bot";
 
 var twitchBot: Bot = new Bot();
